@@ -1,0 +1,14 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "sp-fx-didp-client-side-solution",
+        "id": "e12b2474-48e8-4a0f-aeda-7bc9923a286a",
+        "version": "1.0.0.1",
+        "includeClientSideAssets": true,
+        "skipFeatureDeployment": true,
+        "isDomainIsolated": false
+    },
+    "paths": {
+        "zippedPackage": "solution/sp-fx-didp.sppkg"
+    }
+}
